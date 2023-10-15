@@ -42,6 +42,7 @@ Instructions to run locally:
 4 - you will be given localhost to view html, probably: http://localhost:8000/
 
 5A - Either navigate to "http://localhost:8000/" in your Browser, or
+
 5B - Right-Click on "index.html" in "belly-button-challenge"  Folder and choose: "Open With" & select a Browser
 
 ——————————————————————————
