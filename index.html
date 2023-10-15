@@ -7,6 +7,13 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Bellybutton Biodiversity</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <style>
+    /* Add custom CSS styles for the bubble chart */
+    .larger-chart {
+      width: 150%; /* Adjust the width as needed */
+      margin-left: -25%; /* Center the chart */
+    }
+  </style>
 </head>
 
 <body>
@@ -34,12 +41,9 @@
       <div class="col-md-5">
         <div id="bar"></div>
       </div>
-      <div class="col-md-5">
-        <div id="gauge"></div>
-      </div>
     </div>
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-5 larger-chart">
         <div id="bubble"></div>
       </div>
     </div>
@@ -48,8 +52,6 @@
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="./static/js/app.js"></script>
-  <script src="./static/js/bonus.js"></script>
-
 </body>
 
 </html>
