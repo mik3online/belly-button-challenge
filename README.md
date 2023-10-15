@@ -13,9 +13,9 @@
 
 ——————————————————————————
 
-+Files contained: 
+Files contained: 
 
-“README.md” = readme file
++“README.md” = readme file
 
 +“index.html” = Index HTML File, calling on the following links:
   + https://d3js.org/d3.v7.min.js // loads the D3.js JavaScript library 
