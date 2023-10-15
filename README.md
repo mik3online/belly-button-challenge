@@ -25,8 +25,8 @@ Files contained:
 +“samples.json” = JSON Data, provided by Canvas
 
 +“static/js/app.js” = JS File providing instructions on: 
-  (a) creating a Dropdown Menu for each Subject ID  
-  (b) creating a BAR GRAPH for Top 10 OTUs for each Subject ID ( Use sample_values as the values for the bar chart, Use otu_ids as the labels for the bar chart, Use otu_labels as the hovertext for the chart. )
-  (c) creating a BUBBLE CHART for each Subject ID ( Use otu_ids for the X values, Use sample_values for the Y values, Use sample_values for the marker size, Use otu_ids for the marker colors, Use otu_labels for the text values )
+  - (a) creating a Dropdown Menu for each Subject ID  
+  - (b) creating a BAR GRAPH for Top 10 OTUs for each Subject ID ( Use sample_values as the values for the bar chart, Use otu_ids as the labels for the bar chart, Use otu_labels as the hovertext for the chart. )
+  - (c) creating a BUBBLE CHART for each Subject ID ( Use otu_ids for the X values, Use sample_values for the Y values, Use sample_values for the marker size, Use otu_ids for the marker colors, Use otu_labels for the text values )
 
 ——————————————————————————
