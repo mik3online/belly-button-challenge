@@ -35,7 +35,7 @@ Instructions to run locally:
 
 1 - download Folder "belly-button-challenge" and all of its Files/Contents
 
-2 - In Terminal, navigate to folder where "index.html" is located:  cd <locate folder locally>
+2 - In Terminal, navigate to folder where "index.html" is located:  cd (locate folder locally)
 
 3 - Once Navigated to the Folder, In Terminal type:  python -m http.server
 
