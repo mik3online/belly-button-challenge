@@ -2,7 +2,7 @@
 
 ——————————————————————————
 
-Student // Michael Strati
+Student // Michael S.
 
 Project // Module 14 Challenge
 
