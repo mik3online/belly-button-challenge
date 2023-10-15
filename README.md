@@ -30,3 +30,19 @@ Files contained:
   - (c) creating a BUBBLE CHART for each Subject ID ( Use otu_ids for the X values, Use sample_values for the Y values, Use sample_values for the marker size, Use otu_ids for the marker colors, Use otu_labels for the text values )
 
 ——————————————————————————
+
+Instructions to run locally:
+
+1 - download Folder "belly-button-challenge" and all of it's Files/Contents
+
+2 - In Terminal, navigate to folder where index.html is located:  cd <locate folder locally>
+
+3 - Once Navigated to the Folder, In Terminal type:  python -m http.server
+
+4 - you will be given localhost to view html, probably: http://localhost:8000/
+
+5A - Either navigate to "http://localhost:8000/" in your Browser, or
+5B - Right-Click on "index.html" in "belly-button-challenge"  Folder and choose: "Open With" & select a Browser
+
+——————————————————————————
+
